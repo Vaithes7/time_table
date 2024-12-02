@@ -27,7 +27,7 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html lang="en-us"></html>
     <head>
-        <title>Time Table</title>
+        <title>Time Table  Vaitheswaran N (24901212)</title>
         <style>
             table, th, td{
                 border: 6px gray;
@@ -64,7 +64,7 @@ Execute the program using runserver command.
     </head>
     <body>
         <header><img src="c:\Users\admin\Downloads\sec-logo-.png" width="1500" height="190"></header>
-      <h1 style="text-align: center">Time Table</h1>
+      <h1 style="text-align: center">Time Table Vaitheswaran N (24901212)</h1>
         <table>
             <tr>
                 <th>Day/Period</th>
@@ -178,7 +178,8 @@ Execute the program using runserver command.
 
 
 
-![screencapture-file-C-Users-admin-Desktop-HTML-Vaithes-TT2-html-2024-12-02-21_28_58](https://github.com/user-attachments/assets/2290673f-7ccd-4e12-ae65-9ffba1665ed5)
+![screencapture-file-C-Users-admin-Desktop-HTML-Vaithes-TT2-html-2024-12-02-23_08_58](https://github.com/user-attachments/assets/32ce4be6-c2e6-4407-a3bc-8c4a0270f697)
+
 
 
 
